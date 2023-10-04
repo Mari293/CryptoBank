@@ -9,12 +9,11 @@ export const CardDeal = () => {
     <section className={layout.section}>
       <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Find a better card deal <br className="sm:block hidden" /> in few easy
-        steps.
+        Find the best investment opportunities <br className="sm:block hidden" />  in just few steps.
       </h2>
       <p className={`${styles.paragraph} max-w-[29.4rem] mt-5`}>
-        Arcu tortor, purus in mattis at sed integer faucibus. Aliquet quis
-        aliquet eget mauris tortor.ç Aliquet ultrices ac, ametau.
+      Buy, sell and spend your cryptocurrencies on the world's 
+      most trusted cryptocurrency exchange platform.
       </p>
       <Button styles={`mt-10`} />
       </div>

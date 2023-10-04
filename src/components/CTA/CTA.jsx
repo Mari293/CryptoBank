@@ -9,7 +9,7 @@ export const CTA = () => {
       <div className="flex-1 flex flex-col">
         <h2 className={styles.heading2}>Let’s try our service now!</h2>
         <p className={`${styles.paragraph} max-w-[29.4rem] mt-5`}>
-          Everything you need to accept card payments and grow your business
+          Everything you need to have an account and grow your business
           anywhere on the planet.
         </p>
       </div>

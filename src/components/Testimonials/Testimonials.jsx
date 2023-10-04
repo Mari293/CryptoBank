@@ -15,7 +15,7 @@ export const Testimonials = () => {
         </h2>
         <div className="w-full md:mt-0 mt-6">
           <p className={`${styles.paragraph} text-left max-w-[28.1rem]`}>
-            Everything you need to accept card payments and grow your business
+            Everything you need to have an account and grow your business
             anywhere on the planet.
           </p>
         </div>
